@@ -1,2 +1,2 @@
 # JavaProject
-SWW Java Project
+**Tutor-Student Collaboration System**
